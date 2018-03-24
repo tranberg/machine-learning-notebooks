@@ -16,8 +16,14 @@ jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.3
 jupyter-console==5.2.0
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.4.0
 jupyter-core==4.4.0
+jupyter-highlight-selected-word==0.1.0
+jupyter-latex-envs==1.4.4
+jupyter-nbextensions-configurator==0.4.0
 kiwisolver==1.0.1
+lxml==4.2.1
 MarkupSafe==1.0
 matplotlib==2.2.2
 mistune==0.8.3
@@ -39,6 +45,7 @@ Pygments==2.2.0
 pyparsing==2.2.0
 python-dateutil==2.7.0
 pytz==2018.3
+PyYAML==3.12
 pyzmq==17.0.0
 qtconsole==4.3.1
 requests==2.18.4
@@ -56,3 +63,4 @@ urllib3==1.22
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.1.4
+yapf==0.21.0
